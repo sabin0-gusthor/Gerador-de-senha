@@ -2,6 +2,8 @@
 
 ## Tecnologias utilizada
 Python
+
 tkInter (tk / ttk)
+
 pyperclip
 
